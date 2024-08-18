@@ -93,10 +93,44 @@ NOSL (NoSQL Language) refers to the various query languages used with NoSQL data
     ![image](https://github.com/user-attachments/assets/5775589b-b355-496f-836b-46f4df50ee51)
 
     TASK 1 -  import 100 documents into the "movies" collection within the "entertainment" database on a MongoDB instance?
+       https://github.com/user-attachments/assets/e641c1bd-988c-4ab9-9a77-a6a5554c52fa
+
+    TASK 2 - What does the MongoDB aggregation pipeline in the image calculate and how does it arrive at the final output of [{ "_id": 2016, "movieCount": 73 }]?
+
+       https://github.com/user-attachments/assets/fdbf2e09-aaf4-4d55-a954-08c7e807346e
 
 
+       TASK 3 -  What does the MongoDB command db.movies.countDocuments({ year: { $gt: 1999 } }) do, and what is the result of executing it?
+
+       https://github.com/user-attachments/assets/eaa6d6cf-d7c7-4910-81c1-3baf9545f3b0
+
+       TASK 4 - Explain what this MongoDB aggregation pipeline does. Why is the averageVotes field null in the output?
+       
+       https://github.com/user-attachments/assets/d70d53dc-3799-497f-8b52-d0f7b865276e
+
+       TASK 5 - what command was used to import 100 records from the CSV file "partial_data.csv" into the "movies" collection within the "entertainment" database on a MongoDB instance?
+       
+       https://github.com/user-attachments/assets/f1936eba-08b0-4f67-bbb9-bd13275d3dbf
 
 
-     <img width="443" alt="01-mongo-import" src="https://github.com/user-attachments/assets/e641c1bd-988c-4ab9-9a77-a6a5554c52fa">
+       TASK 6 - what command was used to create a new keyspace called "keyspace_name" with a replication factor of 3 using the SimpleStrategy?
 
-    
+               https://github.com/user-attachments/assets/a5f77796-7c53-4fab-8bb8-370c4076d55d
+
+       TASK 7 - what command was used to import 100 records from the CSV file "partial_data.csv" into the "movies" table within the "entertainment" keyspace?
+       https://github.com/user-attachments/assets/6f06d3ee-bcfc-4359-bdd0-79e655babf16
+       
+       TASK 8 - what is the total count of rows in the "movies" table within the "entertainment" keyspace?
+
+     https://github.com/user-attachments/assets/95ef3a70-3f83-4083-a790-543d91c9a7f0
+
+     TASK 9 - What is the purpose of the CREATE TABLE statement in the image and what are the key characteristics of the "movies" table being created?
+ 
+              https://github.com/user-attachments/assets/2ba5b355-f2de-4448-b989-b35dae4dc6bc
+
+       TASK 10 - what is the count of rows in the "movies" table with a "rating" of 'G'?
+
+       https://github.com/user-attachments/assets/df939123-69e2-4747-bdeb-69d13b48b927
+
+       
+       
